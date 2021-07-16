@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "New folder",
+			"path": "."
+		},
+		{
+			"name": "music",
+			"path": "..\\music"
+		},
+		{
+			"name": "pictures",
+			"path": "..\\pictures"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "New folder"
+	}
+}
